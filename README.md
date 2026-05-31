@@ -10,9 +10,9 @@
     <br>
 </h2>
 <p align="center">
-    I am quiet person that loves foxes and codes quite abit.
+    I am quiet person that loves foxes and codes quite abit. I also love tech a lot! Same with my friends, I love them!
     <br><br>
-    I mainly use Windows (7, 10 and 11), but I have tried using Arch Linux.. <br>
+    I mainly use Windows (used 7, 10 and 11. Daily is Win 11), but I have tried using Arch Linux.. <br>
     I hate those "i use arch btw" people as much as you. I'm not going to be like that.
     <br><br>
     Software and Tools I use:
