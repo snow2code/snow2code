@@ -1,64 +1,49 @@
-<h1 align="center">Hey there, I'm Snow2Code / Snowy</h1>
-<h3 align="center">A quiet, tech-loving arctic fox with a soft heart and a thing for fluffy tails.</h3>
+<h1 align="center">Heyo! I'm Snowy or snow2code!</h1>
 
 <!-- Profile Views -->
-<p align="left">
+<p align="center">
 	<img src="https://komarev.com/ghpvc/?username=snow2code&label=Profile%20views&color=0e75b6&style=flat" alt="snow2code profile views"/>
 </p>
 
-<p align="left"> 
-  <!-- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" /> -->
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c++" />
+<h2 align="center">
+    About me
+    <br>
+</h2>
+<p align="center">
+    I am quiet person that loves foxes and codes quite abit.
+    <br><br>
+    I mainly use Windows (7, 10 and 11), but I have tried using Arch Linux.. <br>
+    I hate those "i use arch btw" people as much as you. I'm not going to be like that.
+    <br><br>
+    Software and Tools I use:
+    Git <br>
+    VSCode (Visual Studio Code) <br>
+    Node.js <br>
+</p>
+
+<h2 align="center">
+    How to contact me
+    <br>
+</h2>
+<p align="center">
+    I'm on most social media platforms as snow2code. <br>
+    Another way to contact me is via email - **snow2code@protonmail.com**
+</p>
+
+<h2 align="center">What I code in</h2>
+
+<p align="center"> 
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" />
+  <img src="https://img.shields.io/badge/CSS-00599C?&style=for-the-badge" alt="css" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="js" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" />
-  <img src="https://img.shields.io/badge/SourcePawn-777BB4?style=for-the-badge&logo=sourcemod&logoColor=white" alt="sourcepawn" />
 </p>
 
+<!-- <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snow2code&show_icons=true&theme=dark&locale=en&layout=compact" alt="snow2code"/> </p>
 
-- 💻 I tinker with code, themes, setups, and anything I can customize
-- 🦊 Arctic fox fursona. Shy, snow-white, and absolutely me
-- 🌈 Pansexual. Aroace. Non-binary. Also a furry — deal with it
-- 🪟 Windows user. No Linux. I like things simple (but not *that* simple)
-- 🦊 I love foxes. They’re just the best. That’s not up for debate.
-
-- 📫 How to reach me **snow2code@gmail.com** *AND* **snow2code@protonmail.com**
-
-## 🔧 Tech I Use
-- **Languages:** Python, JavaScript, HTML/CSS, and sometimes SourcePawn when I'm okay with suffering
-- **Tools:** Git, VSCode, Node.js, and other nonsense that gets the job done
-- **Style:** Clean code, cozy UI, no terminal wizardry unless I have to
-
-## 🔗 Find Me
-- 📁 Repos: Scroll down. Some are in my orgs too — I bounce around a bit
-- 🧊 Setups and themes: Yes, I overthink colors. Yes, it’s worth it
-- 🦊 Fursona: Snowy. Arctic fox. Me, but fluffier
-
-
-<!--
-<h3 align="left">Connect with me:</h3>
-  <p align="left">
-  <a href="https://fb.com/calvin koh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="calvin koh" height="30" width="40" /></a>
-  <a href="https://instagram.com/kaiminn.05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaiminn.05" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/snow2code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="snow2code" height="30" width="40" /></a>
-  <a href="https://discord.gg/fwqGPsbrdR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fwqGPsbrdR" height="30" width="40" /></a>
-</p>
--->
-
-<h3 align="left">Languages:</h3>
-
-<!-- <p align="left">  -->
-  <!-- C++ --> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> </a> <!-- C# --> <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/> </a> <!-- CSS --> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <!--- HTML --> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <!-- JavaScript--> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <!-- PHP --> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  
-<!-- </p> -->
-<br><br>
-<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snow2code&show_icons=true&theme=dark&locale=en&layout=compact" alt="snow2code"/> </p>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=snow2code&show_icons=true&theme=dark&locale=en" alt="snow2code"/> </p>
-
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=snow2code&show_icons=true&theme=dark&locale=en" alt="snow2code"/> </p> -->
 
 ---
-
-> You're valid. No matter what others think of you.
+> You're valid. No matter what others say. No matter what others think of you.<br>
+Your voice is heard.
